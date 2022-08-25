@@ -1,0 +1,15 @@
+[[edge_functions]]
+path = "/test"
+function = "hello"
+
+[[edge_functions]]
+path = "/create"
+function = "create"
+
+[[edge_functions]]
+path = "/workflow"
+function = "workflow"
+
+[[edge_functions]]
+path = "/workflows"
+function = "workflows"

@@ -1,0 +1,17 @@
+{
+	"promptVSCodeSettings": true,
+	"geolocation": {
+		"data": {
+			"city": "Orlando",
+			"country": {
+				"code": "US",
+				"name": "United States"
+			},
+			"subdivision": {
+				"code": "FL",
+				"name": "Florida"
+			}
+		},
+		"timestamp": 1661344160968
+	}
+}
